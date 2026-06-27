@@ -4,7 +4,7 @@
 
 HOWARD DUVAN SÁNCHEZ GARCIA
 
-# Código del estudiante
+## Código del estudiante
 
 2438723
 
